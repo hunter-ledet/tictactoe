@@ -1,2 +1,2 @@
 # tictactoe
-Tic Tac Toe in Python
+Tic Tac Toe in Javascript
